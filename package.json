@@ -1,0 +1,22 @@
+{
+  "name": "lh5_ppt_creator_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelloggcompany/LH5_PPT_Creator_BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelloggcompany/LH5_PPT_Creator_BE/issues"
+  },
+  "homepage": "https://github.com/kelloggcompany/LH5_PPT_Creator_BE#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
